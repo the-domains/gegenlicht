@@ -1,6 +1,6 @@
 name: Gegenlicht
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.37479
 typography_spectrum: 1
 title: Gegenlicht.Pictures - Photography Showroom
 cta:
@@ -24,6 +24,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0
   lightness: 0.875
-  saturation: 0.0625
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
