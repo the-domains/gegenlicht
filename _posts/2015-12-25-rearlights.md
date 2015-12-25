@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Watch the Rearlights series!'
-datePublished: '2015-12-25T17:34:04.986Z'
-dateModified: '2015-12-25T17:33:56.854Z'
+datePublished: '2015-12-25T17:39:23.693Z'
+dateModified: '2015-12-25T17:39:13.897Z'
 title: Rearlights
 author: []
 sourcePath: _posts/2015-12-25-rearlights.md
@@ -22,7 +22,5 @@ publisher:
 _type: Blurb
 
 ---
-[Rearlights][0] - moody autumn lights
+null
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b76288da391237a3115566b22e3a5539aeba3719.jpg)
-
-[0]: https://thegrid.ai/gegenlicht/test/
