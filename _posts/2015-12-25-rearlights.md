@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T04:08:11.280Z'
-dateModified: '2016-01-03T04:08:06.961Z'
+datePublished: '2016-01-03T19:18:55.629Z'
+dateModified: '2016-01-03T19:18:48.190Z'
 title: Wachen
 author: []
 sourcePath: _posts/2015-12-25-rearlights.md
@@ -22,4 +22,4 @@ publisher:
 _type: MediaObject
 
 ---
-![10](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1e442900e7d9f61015f10d97c2ff1dc5f33a50e.jpg)
+![10](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61dffff263c8f7dec009381300cb8a30a0f085b6.jpg)
