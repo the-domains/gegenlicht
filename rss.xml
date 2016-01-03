@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Gegenlicht.Pictures - Photography Showroom]]></title>
         <description><![CDATA[Gegenlicht.Pictures - Photography Showroom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gegenlicht/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 03:10:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 03:29:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gegenlicht/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wachen]]></title>
+            <description><![CDATA[<article><h1>Wachen</h1><p>10</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df801964fb06305d3f63057b6bde1ff1b5aa7256.jpg"></article>]]></description>
+            <link>http://gegenlicht.pictures/</link>
+            <guid isPermaLink="false">f5eb0e03-31a4-4c8d-92aa-0f3145c95767</guid>
+            <pubDate>Sun, 03 Jan 2016 03:28:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ziehen ]]></title>
-            <description><![CDATA[<article><h1>Ziehen </h1><p>5</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e0c39d90526c3179b2c6274c33b06c079ecab2c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ziehen </h1><p>5</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bec440eda65159f3e3c2d704030f853524173cdd.jpg"></article>]]></description>
             <link>http://gegenlicht.pictures/</link>
             <guid isPermaLink="false">612a3c6b-cb8c-45c0-b116-fab56039ac61</guid>
             <pubDate>Sun, 03 Jan 2016 03:10:28 GMT</pubDate>
