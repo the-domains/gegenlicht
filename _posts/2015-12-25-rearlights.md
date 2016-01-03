@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T03:28:29.591Z'
-dateModified: '2016-01-03T03:28:22.596Z'
+datePublished: '2016-01-03T03:34:59.376Z'
+dateModified: '2016-01-03T03:34:52.412Z'
 title: Wachen
 author: []
 sourcePath: _posts/2015-12-25-rearlights.md
