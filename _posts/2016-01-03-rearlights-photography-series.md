@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Photography Series
-datePublished: '2016-01-03T22:56:44.559Z'
-dateModified: '2016-01-03T22:56:35.870Z'
+datePublished: '2016-01-03T22:59:47.259Z'
+dateModified: '2016-01-03T22:59:40.204Z'
 title: Rearlights
 author: []
 sourcePath: _posts/2016-01-03-rearlights-photography-series.md
