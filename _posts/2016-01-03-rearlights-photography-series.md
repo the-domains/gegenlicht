@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Photography Series
-datePublished: '2016-01-03T22:59:47.259Z'
-dateModified: '2016-01-03T22:59:40.204Z'
+datePublished: '2016-01-03T23:03:34.955Z'
+dateModified: '2016-01-03T23:03:21.437Z'
 title: Rearlights
 author: []
 sourcePath: _posts/2016-01-03-rearlights-photography-series.md
