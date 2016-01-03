@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T04:01:09.450Z'
-dateModified: '2016-01-03T04:01:05.533Z'
-title: Wachen
+datePublished: '2016-01-03T04:06:16.397Z'
+dateModified: '2016-01-03T04:06:12.099Z'
+title: Wache
 author: []
 sourcePath: _posts/2015-12-25-rearlights.md
 published: true
