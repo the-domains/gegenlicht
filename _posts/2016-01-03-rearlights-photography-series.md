@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-03T22:53:05.776Z'
-dateModified: '2016-01-03T22:52:47.636Z'
-title: Rearlights - Photography Series
+description: Photography Series
+datePublished: '2016-01-03T22:56:44.559Z'
+dateModified: '2016-01-03T22:56:35.870Z'
+title: Rearlights
 author: []
+sourcePath: _posts/2016-01-03-rearlights-photography-series.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-rearlights-photography-series.md
-published: true
 url: rearlights-photography-series/index.html
 _type: WebPage
 
