@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Photography Series
-datePublished: '2016-01-03T23:03:34.955Z'
-dateModified: '2016-01-03T23:03:21.437Z'
+datePublished: '2016-01-27T20:25:29.709Z'
+dateModified: '2016-01-27T20:25:20.775Z'
 title: Rearlights
 author: []
 sourcePath: _posts/2016-01-03-rearlights-photography-series.md
@@ -22,6 +22,7 @@ url: rearlights-photography-series/index.html
 _type: WebPage
 
 ---
+Rearlights
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d861ce-eded-4be6-a7f7-0025c8aef520.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f65deb5e-68bb-4c31-a74a-a010338d310c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55dbe63f-8804-4983-8780-128c66cd9b57.jpg)
